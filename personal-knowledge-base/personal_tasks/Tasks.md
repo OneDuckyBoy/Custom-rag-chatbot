@@ -1,0 +1,2 @@
+- fix the table, because it is a mess
+- listen to good music, while doing the tasks
